@@ -1,0 +1,10 @@
+import os
+
+# Set environment variables
+os.environ["AWS_ACCESS_KEY_ID"] = "AKIAUPMYNFIB35TQDOQQ"
+os.environ["AWS_SECRET_ACCESS_KEY"] = "mY7jy0TscwBC3xyoR1pXUnK5aLWp"
+
+# Access the environment variables
+print("Access Key:", os.environ["AWS_ACCESS_KEY_ID"])
+print("Secret Key:", os.environ["AWS_SECRET_ACCESS_KEY"])
+
