@@ -1,2 +1,0 @@
-os.environ["AWS_ACCESS_KEY_ID"] = "AKIAUPMYNFIB35TQDOQQ"
-os.environ["AWS_SECRET_ACCESS_KEY"] = "mY7jy0TscwBC3xyoR1pXUnK5aLWp"
